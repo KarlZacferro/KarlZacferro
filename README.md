@@ -8,7 +8,7 @@ Hello, my name is Karlisson and I am 23 years old, I have had contact with progr
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [karlissonferreira42@gmail.com](mailto:karlissonferreira42@gmail.com)
-* 🧠  I'm learning Flutter and Dart
+* 🧠  I'm learning React and Typescript
 
 <a href="https://www.twitter.com/Arthas44884542" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Arthas44884542?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=0f172a"
